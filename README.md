@@ -6,20 +6,12 @@ Escola de Educação, Tecnologia e Comunicação |
 Cursos de Análise e Desenvolvimento de Sistemas, Ciências da Computação e Engenharia de Software | 
 Trabalho da Disciplina de Algoritmos e Programação Estruturada
 
-Autores: 
-Arthur Ferreira Brandão,
-Arthur Batista de Sousa,
-Breno Mattos Vilela,
-Carlos Renato Fleres,
-Emerson de Jesus,
-Guilherme Alves Magalhães.
 
 Orientador: 
 Prof. João Robson Martins.
 
 Sistema de Registro de Chamada desenvolvido como Projeto Final da disciplina de Algoritmos e Programação Estruturada - GPE01N0347, em requisito parcial para obtenção da aprovação na disciplina.
 
-Grupo 5 - Projeto 1
 
 -------------------------------
 
